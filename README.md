@@ -3,12 +3,6 @@
 
 # Welcome to my Profile
 
-## 🔗 Connect With Me
-[![@HimanshuSingh](https://img.shields.io/badge/@HimanshuSingh-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://himanshusingh.me/)
-[![@HimanshuSingh](https://img.shields.io/badge/@HimanshuSingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-692403202/)
-[![@HimanshuSingh](https://img.shields.io/badge/@HimanshuSingh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Himanxu31)
-
-
 ## 🚀 About Me
 Hello !! My name is Rolwin Reevan Monteiro. I'm a full stack web developer who is passionate about various web technologies. I like to experiment with different web technologies. I have an experience of 3+ years working with LAMP stack, MERN stack and ELK stack. Building fancy UI's just like this one that your seeing 😅 and writing blogs about tech stacks is what Rolwin loves to do. Check my blog which I update every week for some Javascript and some cool notes on web technologies.
 
